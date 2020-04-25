@@ -52,10 +52,6 @@ java -jar ifaka.jar --server.port=8888
 >
 > （暂时只支持这两个,如果你有好的支付接口推荐可以在issues中告知）
 
-# 反馈交流
-
-欢迎加入开发者交流群，群聊号码：[823977396](https://shang.qq.com/wpa/qunwpa?idkey=1e341e6092d59f948f76c35e1dd4acb8be2b111a029e8841f2bec28a2cc7b3c1)
-
 ## 开源协议
 
 MIT License
